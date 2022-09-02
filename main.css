@@ -1,0 +1,38 @@
+body {
+    background-color: #c7ecee;
+}
+
+.container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 42%;
+    margin-top: 25%;
+}
+
+input {
+    margin: 2px;
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 4px 4px 16px 0px rgba(34, 60, 80, 0.2);
+}
+
+button {
+    margin: 2px;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 4px 4px 16px 0px rgba(34, 60, 80, 0.2);
+    cursor: pointer;
+}
+
+h1 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 42%;
+    margin-top: 20%;
+}
